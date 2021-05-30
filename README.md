@@ -4,7 +4,7 @@
 
 - `utils.py`: the implements of DE, PSO, and FA
 - `main.py`: the main program to run DE, PSO, and FA
-- - `args.py` defines the arguments parser
+- `args.py` defines the arguments parser
 - `exp_N.py` conducts the experiment of numbers of setting points
 
 ## Usage
