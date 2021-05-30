@@ -1,7 +1,5 @@
-import os, random
+import random
 import matplotlib.pyplot as plt
-from utils import save_txt, DE, PSO, FA
-from datetime import datetime
 from main import main
 from args import init_arguments
 if init_arguments().parse_args().gpu:

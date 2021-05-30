@@ -1,5 +1,4 @@
 import os, time, random
-from cupy._io.npz import save
 from utils import save_txt, DE, PSO, FA
 from datetime import datetime
 from args import init_arguments
