@@ -24,3 +24,5 @@ python3 exp_N.py -a 'FA' 'DE'         # Only FA would be trained
 python3 exp_N.py -a 'PSO'
 python3 exp_N.py -a 'FA' -t 50 --exp_N 300 400 500
 ```
+
+After running `exp_N.py`, then you can run `exp_A.py` to produce Fig 1 to Fig 4 in the report.
