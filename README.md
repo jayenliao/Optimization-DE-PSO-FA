@@ -14,7 +14,7 @@ This project aimed to implement three well-known meta-heuristic algorithms: diff
 
 ## Usage examples
 
-```
+```bash
 python3 main.py -a 'DE'
 python3 main.py -a 'DE' -t 100        # Run DE 100 times
 python3 main.py -a 'DE' --N_DE 500    # Initalize 500 points
